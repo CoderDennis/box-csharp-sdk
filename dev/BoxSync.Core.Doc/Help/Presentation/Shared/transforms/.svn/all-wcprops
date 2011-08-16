@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Presentation/Shared/transforms
+END
+utilities_metadata.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Presentation/Shared/transforms/utilities_metadata.xsl
+END
+utilities_dduexml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Presentation/Shared/transforms/utilities_dduexml.xsl
+END
+utilities_reference.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Presentation/Shared/transforms/utilities_reference.xsl
+END

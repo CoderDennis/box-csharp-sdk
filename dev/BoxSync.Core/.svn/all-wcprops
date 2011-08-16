@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/41/trunk/dev/BoxSync.Core
+END
+BoxManager.DeleteObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/41/trunk/dev/BoxSync.Core/BoxManager.DeleteObject.cs
+END
+BoxManager.Copy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/41/trunk/dev/BoxSync.Core/BoxManager.Copy.cs
+END
+NotSupportedObjectTypeException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13/trunk/dev/BoxSync.Core/NotSupportedObjectTypeException.cs
+END
+TagPrimitiveCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/dev/BoxSync.Core/TagPrimitiveCollection.cs
+END
+BoxManager.CreateFolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/41/trunk/dev/BoxSync.Core/BoxManager.CreateFolder.cs
+END
+MessageParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31/trunk/dev/BoxSync.Core/MessageParser.cs
+END
+BoxManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/41/trunk/dev/BoxSync.Core/BoxManager.cs
+END
+UnknownOperationStatusException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/dev/BoxSync.Core/UnknownOperationStatusException.cs
+END
+StatusMessageParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/trunk/dev/BoxSync.Core/StatusMessageParser.cs
+END
+BoxManager.FileNewCopy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/41/trunk/dev/BoxSync.Core/BoxManager.FileNewCopy.cs
+END
+BoxSync.Core.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/41/trunk/dev/BoxSync.Core/BoxSync.Core.csproj
+END
+MultipartWebRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/16/trunk/dev/BoxSync.Core/MultipartWebRequest.cs
+END
+UnixTimeConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/31/trunk/dev/BoxSync.Core/UnixTimeConverter.cs
+END
+AsyncCallState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/35/trunk/dev/BoxSync.Core/AsyncCallState.cs
+END

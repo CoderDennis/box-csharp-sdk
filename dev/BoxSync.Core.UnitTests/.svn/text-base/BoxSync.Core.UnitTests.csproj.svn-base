@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{35844479-F277-4F4C-9370-736D8C80C55F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BoxSync.Core.UnitTests</RootNamespace>
+    <AssemblyName>BoxSync.Core.UnitTests</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="nunit.framework, Version=2.4.8.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FolderBaseTests.cs" />
+    <Compile Include="MessageParserTests.cs" />
+    <Compile Include="Primitives\CommentTests.cs" />
+    <Compile Include="Primitives\FolderStructureRetrieveModeExtensionsTests.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TagPrimitiveCollectionTests.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\export_tags.xml" />
+    <Content Include="Data\folder_structure.xml" />
+    <Content Include="Data\upload_file_response\application_restricted.xml" />
+    <Content Include="Data\folder_structure_simple.xml" />
+    <Content Include="Data\upload_file_response\not_logged_id.xml" />
+    <Content Include="Data\upload_file_response\no_files_element.xml" />
+    <Content Include="Data\upload_file_response\unknown_status.xml" />
+    <Content Include="Data\upload_file_response\upload_ok.xml" />
+    <Content Include="Data\upload_file_response\upload_some_files_failed-access_denied.xml" />
+    <Content Include="Data\upload_file_response\upload_some_files_failed-filesize_limit_exceeded.xml" />
+    <Content Include="Data\upload_file_response\upload_some_files_failed-not_enough_free_space.xml" />
+    <Content Include="Data\upload_file_response\upload_some_files_failed-unknown_error.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BoxSync.Core\BoxSync.Core.csproj">
+      <Project>{FC868A3E-DDC5-43D2-85AA-A27FEC79B251}</Project>
+      <Name>BoxSync.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

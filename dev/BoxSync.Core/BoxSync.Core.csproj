@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FC868A3E-DDC5-43D2-85AA-A27FEC79B251}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BoxSync.Core</RootNamespace>
+    <AssemblyName>BoxSync.Core</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkSubset>Client</TargetFrameworkSubset>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\BoxSync.Core.XML</DocumentationFile>
+    <LangVersion>default</LangVersion>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\BoxSync.Core.XML</DocumentationFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.5.452, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AsyncCallState.cs" />
+    <Compile Include="BoxManager.Copy.cs" />
+    <Compile Include="BoxManager.cs" />
+    <Compile Include="MultipartWebRequest.cs" />
+    <Compile Include="MessageParser.cs" />
+    <Compile Include="NotSupportedObjectTypeException.cs" />
+    <Compile Include="Primitives\AddCommentResponse.cs" />
+    <Compile Include="Primitives\AddToMyBoxResponse.cs" />
+    <Compile Include="Primitives\AuthenticateUserResponse.cs" />
+    <Compile Include="Primitives\Comment.cs" />
+    <Compile Include="Primitives\CopyFileResponse.cs" />
+    <Compile Include="Primitives\CreateFolderResponse.cs" />
+    <Compile Include="Primitives\DeleteObjectResponse.cs" />
+    <Compile Include="Primitives\ExportTagsResponse.cs" />
+    <Compile Include="Primitives\FileNewCopyResponse.cs" />
+    <Compile Include="Primitives\FolderBase.cs" />
+    <Compile Include="Primitives\GetAccountInfoResponse.cs" />
+    <Compile Include="Primitives\GetCommentsResponse.cs" />
+    <Compile Include="Primitives\GetFileInfoResponse.cs" />
+    <Compile Include="Primitives\GetFolderStructureResponse.cs" />
+    <Compile Include="Primitives\GetServerTimeResponse.cs" />
+    <Compile Include="Primitives\GetTicketResponse.cs" />
+    <Compile Include="Primitives\GetAuthenticationTokenResponse.cs" />
+    <Compile Include="Primitives\GetUpdatesOptions.cs" />
+    <Compile Include="Primitives\GetUpdatesResponse.cs" />
+    <Compile Include="Primitives\LogoutResponse.cs" />
+    <Compile Include="Primitives\MoveObjectResponse.cs" />
+    <Compile Include="Primitives\MultipartRequestUploadResponse.cs" />
+    <Compile Include="Primitives\OverwriteFileResponse.cs" />
+    <Compile Include="Primitives\PublicShareResponse.cs" />
+    <Compile Include="Primitives\PublicUnshareResponse.cs" />
+    <Compile Include="Primitives\RenameObjectResponse.cs" />
+    <Compile Include="Primitives\ResponseBase.cs" />
+    <Compile Include="Primitives\PrivateShareResponse.cs" />
+    <Compile Include="Primitives\RegisterNewUserResponse.cs" />
+    <Compile Include="Primitives\SetDescriptionResponse.cs" />
+    <Compile Include="Primitives\UpdatedFile.cs" />
+    <Compile Include="Primitives\UpdateItem.cs" />
+    <Compile Include="Primitives\UpdateType.cs" />
+    <Compile Include="Primitives\VerifyRegistrationEmailResponse.cs" />
+    <Compile Include="Statuses\AddCommentStatus.cs" />
+    <Compile Include="Statuses\AddToMyBoxStatus.cs" />
+    <Compile Include="Statuses\AuthenticationStatus.cs" />
+    <Compile Include="Statuses\CreateFolderStatus.cs" />
+    <Compile Include="Statuses\CopyObjectStatus.cs" />
+    <Compile Include="Statuses\DeleteObjectStatus.cs" />
+    <Compile Include="Statuses\ExportTagsStatus.cs" />
+    <Compile Include="Primitives\File.cs" />
+    <Compile Include="Primitives\ImageFile.cs" />
+    <Compile Include="Statuses\GetAccountInfoStatus.cs" />
+    <Compile Include="Statuses\GetCommentsStatus.cs" />
+    <Compile Include="Statuses\GetFileInfoStatus.cs" />
+    <Compile Include="Statuses\GetServerTimeStatus.cs" />
+    <Compile Include="Statuses\GetUpdatesStatus.cs" />
+    <Compile Include="Statuses\LogoutStatus.cs" />
+    <Compile Include="Statuses\MoveObjectStatus.cs" />
+    <Compile Include="Statuses\FileNewCopyStatus.cs" />
+    <Compile Include="Statuses\OverwriteFileStatus.cs" />
+    <Compile Include="Statuses\PrivateShareStatus.cs" />
+    <Compile Include="Statuses\PublicShareStatus.cs" />
+    <Compile Include="Statuses\PublicUnshareStatus.cs" />
+    <Compile Include="Statuses\RegisterNewUserStatus.cs" />
+    <Compile Include="Statuses\RenameObjectStatus.cs" />
+    <Compile Include="Primitives\RetrieveFolderStructureOptions.cs" />
+    <Compile Include="Statuses\GetAccountTreeStatus.cs" />
+    <Compile Include="Statuses\GetAuthenticationTokenStatus.cs" />
+    <Compile Include="Statuses\GetTicketStatus.cs" />
+    <Compile Include="Primitives\ObjectType.cs" />
+    <Compile Include="Statuses\SetDescriptionStatus.cs" />
+    <Compile Include="Primitives\TagPrimitive.cs" />
+    <Compile Include="Primitives\EventHandlers.cs" />
+    <Compile Include="Primitives\UploadFileError.cs" />
+    <Compile Include="Primitives\UploadFileResponse.cs" />
+    <Compile Include="Statuses\UploadFileStatus.cs" />
+    <Compile Include="Primitives\UserPermissionFlags.cs" />
+    <Compile Include="Primitives\Folder.cs" />
+    <Compile Include="Primitives\User.cs" />
+    <Compile Include="Statuses\VerifyRegistrationEmailStatus.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceReference\boxnetService.cs" />
+    <Compile Include="StatusMessageParser.cs" />
+    <Compile Include="TagPrimitiveCollection.cs" />
+    <Compile Include="UnixTimeConverter.cs" />
+    <Compile Include="UnknownOperationStatusException.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BoxManager.CreateFolder.cs" />
+    <Compile Include="BoxManager.DeleteObject.cs" />
+    <Compile Include="BoxManager.FileNewCopy.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

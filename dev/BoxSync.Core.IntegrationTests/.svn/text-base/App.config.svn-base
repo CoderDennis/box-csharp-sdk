@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="login" value=""/>
+		<add key="password" value=""/>
+		<add key="applicationKey" value=""/>
+		<add key="serviceUrl" value="https://www.box.net/api/1.0/soap"/>
+	</appSettings>
+</configuration>

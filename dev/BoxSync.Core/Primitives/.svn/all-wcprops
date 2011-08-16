@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/39/trunk/dev/BoxSync.Core/Primitives
+END
+GetFolderStructureResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/GetFolderStructureResponse.cs
+END
+MoveObjectResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/MoveObjectResponse.cs
+END
+RetrieveFolderStructureOptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/trunk/dev/BoxSync.Core/Primitives/RetrieveFolderStructureOptions.cs
+END
+CreateFolderResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/CreateFolderResponse.cs
+END
+MultipartRequestUploadResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13/trunk/dev/BoxSync.Core/Primitives/MultipartRequestUploadResponse.cs
+END
+SetDescriptionResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/SetDescriptionResponse.cs
+END
+PublicShareResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/PublicShareResponse.cs
+END
+GetUpdatesOptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/32/trunk/dev/BoxSync.Core/Primitives/GetUpdatesOptions.cs
+END
+PublicUnshareResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/PublicUnshareResponse.cs
+END
+GetUpdatesResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/32/trunk/dev/BoxSync.Core/Primitives/GetUpdatesResponse.cs
+END
+UpdatedFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/33/trunk/dev/BoxSync.Core/Primitives/UpdatedFile.cs
+END
+GetAccountInfoResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31/trunk/dev/BoxSync.Core/Primitives/GetAccountInfoResponse.cs
+END
+AddToMyBoxResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/AddToMyBoxResponse.cs
+END
+CopyFileResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/30/trunk/dev/BoxSync.Core/Primitives/CopyFileResponse.cs
+END
+AuthenticateUserResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/13/trunk/dev/BoxSync.Core/Primitives/AuthenticateUserResponse.cs
+END
+GetAuthenticationTokenResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/GetAuthenticationTokenResponse.cs
+END
+GetTicketResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/GetTicketResponse.cs
+END
+Comment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/trunk/dev/BoxSync.Core/Primitives/Comment.cs
+END
+FileNewCopyResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/dev/BoxSync.Core/Primitives/FileNewCopyResponse.cs
+END
+GetServerTimeResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/33/trunk/dev/BoxSync.Core/Primitives/GetServerTimeResponse.cs
+END
+TagPrimitive.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13/trunk/dev/BoxSync.Core/Primitives/TagPrimitive.cs
+END
+GetCommentsResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/36/trunk/dev/BoxSync.Core/Primitives/GetCommentsResponse.cs
+END
+OverwriteFileResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/dev/BoxSync.Core/Primitives/OverwriteFileResponse.cs
+END
+FolderBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/trunk/dev/BoxSync.Core/Primitives/FolderBase.cs
+END
+DeleteObjectResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/DeleteObjectResponse.cs
+END
+GetFileInfoResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/34/trunk/dev/BoxSync.Core/Primitives/GetFileInfoResponse.cs
+END
+Folder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/28/trunk/dev/BoxSync.Core/Primitives/Folder.cs
+END
+RegisterNewUserResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/RegisterNewUserResponse.cs
+END
+PrivateShareResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/dev/BoxSync.Core/Primitives/PrivateShareResponse.cs
+END
+RenameObjectResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/RenameObjectResponse.cs
+END
+User.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/dev/BoxSync.Core/Primitives/User.cs
+END
+ExportTagsResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/ExportTagsResponse.cs
+END
+File.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/29/trunk/dev/BoxSync.Core/Primitives/File.cs
+END
+ImageFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/29/trunk/dev/BoxSync.Core/Primitives/ImageFile.cs
+END
+UpdateType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/33/trunk/dev/BoxSync.Core/Primitives/UpdateType.cs
+END
+VerifyRegistrationEmailResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/VerifyRegistrationEmailResponse.cs
+END
+LogoutResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/LogoutResponse.cs
+END
+ResponseBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32/trunk/dev/BoxSync.Core/Primitives/ResponseBase.cs
+END
+AddCommentResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/36/trunk/dev/BoxSync.Core/Primitives/AddCommentResponse.cs
+END
+UploadFileError.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/dev/BoxSync.Core/Primitives/UploadFileError.cs
+END
+UpdateItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/33/trunk/dev/BoxSync.Core/Primitives/UpdateItem.cs
+END
+EventHandlers.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/16/trunk/dev/BoxSync.Core/Primitives/EventHandlers.cs
+END
+UploadFileResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9/trunk/dev/BoxSync.Core/Primitives/UploadFileResponse.cs
+END
+UserPermissionFlags.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/dev/BoxSync.Core/Primitives/UserPermissionFlags.cs
+END
+ObjectType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/39/trunk/dev/BoxSync.Core/Primitives/ObjectType.cs
+END
