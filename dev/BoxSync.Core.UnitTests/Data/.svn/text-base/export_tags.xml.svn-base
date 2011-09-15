@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<response>
-	<status>export_tags_ok</status>
-	<tags>
-		<tag id="37">tag1</tag>
-		<tag id="38">tag2</tag>
-		<tag id="1234567890">tag_name_3</tag>
-	</tags>
-</response>
