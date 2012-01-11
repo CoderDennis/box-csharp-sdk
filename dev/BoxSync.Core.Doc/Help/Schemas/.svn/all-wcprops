@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas
+END
+developer.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/developer.xsd
+END
+xlink.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/xlink.xsd
+END
+inlineCommon.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/inlineCommon.xsd
+END
+inlineSoftware.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/inlineSoftware.xsd
+END
+inlineLinking.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/inlineLinking.xsd
+END
+block.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/block.xsd
+END
+space.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/space.xsd
+END
+structureList.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/structureList.xsd
+END
+baseConditional.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/baseConditional.xsd
+END
+structure.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/structure.xsd
+END
+structureMedia.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/structureMedia.xsd
+END
+conditionSet.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/conditionSet.xsd
+END
+glossary.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/glossary.xsd
+END
+blockCommon.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/blockCommon.xsd
+END
+developerReference.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/developerReference.xsd
+END
+blockSoftware.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/blockSoftware.xsd
+END
+developerStructure.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/developerStructure.xsd
+END
+structureTable.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/structureTable.xsd
+END
+structureProcedure.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/structureProcedure.xsd
+END
+__internal.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/__internal.xsd
+END
+base.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/base.xsd
+END
+inlineUi.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/inlineUi.xsd
+END
+inline.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/inline.xsd
+END
+standardCodes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/standardCodes.xsd
+END
+hierarchy.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Schemas/hierarchy.xsd
+END

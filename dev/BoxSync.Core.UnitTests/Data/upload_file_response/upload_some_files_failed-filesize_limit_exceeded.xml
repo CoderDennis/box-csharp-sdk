@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response>
+	<status>upload_some_files_failed</status>
+	<files>
+		<file file_name="Rally.avi" error="filesize_limit_exceeded" />
+	</files>
+</response>

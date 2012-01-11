@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/trunk/dev/BoxSync.Core.UnitTests/Data
+END
+folder_structure_simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/dev/BoxSync.Core.UnitTests/Data/folder_structure_simple.xml
+END
+folder_structure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/dev/BoxSync.Core.UnitTests/Data/folder_structure.xml
+END
+export_tags.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dev/BoxSync.Core.UnitTests/Data/export_tags.xml
+END

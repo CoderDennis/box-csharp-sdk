@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/dev/BoxSync.Core/Statuses
+END
+VerifyRegistrationEmailStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15/trunk/dev/BoxSync.Core/Statuses/VerifyRegistrationEmailStatus.cs
+END
+GetAccountInfoStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31/trunk/dev/BoxSync.Core/Statuses/GetAccountInfoStatus.cs
+END
+LogoutStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/dev/BoxSync.Core/Statuses/LogoutStatus.cs
+END
+AddToMyBoxStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/dev/BoxSync.Core/Statuses/AddToMyBoxStatus.cs
+END
+AddCommentStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/36/trunk/dev/BoxSync.Core/Statuses/AddCommentStatus.cs
+END
+GetAccountTreeStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/dev/BoxSync.Core/Statuses/GetAccountTreeStatus.cs
+END
+AuthenticationStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13/trunk/dev/BoxSync.Core/Statuses/AuthenticationStatus.cs
+END
+GetAuthenticationTokenStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/dev/BoxSync.Core/Statuses/GetAuthenticationTokenStatus.cs
+END
+GetTicketStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13/trunk/dev/BoxSync.Core/Statuses/GetTicketStatus.cs
+END
+UploadFileStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/dev/BoxSync.Core/Statuses/UploadFileStatus.cs
+END
+FileNewCopyStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/dev/BoxSync.Core/Statuses/FileNewCopyStatus.cs
+END
+GetCommentsStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/dev/BoxSync.Core/Statuses/GetCommentsStatus.cs
+END
+GetServerTimeStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/33/trunk/dev/BoxSync.Core/Statuses/GetServerTimeStatus.cs
+END
+OverwriteFileStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/dev/BoxSync.Core/Statuses/OverwriteFileStatus.cs
+END
+DeleteObjectStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/dev/BoxSync.Core/Statuses/DeleteObjectStatus.cs
+END
+GetFileInfoStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/35/trunk/dev/BoxSync.Core/Statuses/GetFileInfoStatus.cs
+END
+MoveObjectStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32/trunk/dev/BoxSync.Core/Statuses/MoveObjectStatus.cs
+END
+RegisterNewUserStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/dev/BoxSync.Core/Statuses/RegisterNewUserStatus.cs
+END
+PrivateShareStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/dev/BoxSync.Core/Statuses/PrivateShareStatus.cs
+END
+RenameObjectStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/dev/BoxSync.Core/Statuses/RenameObjectStatus.cs
+END
+CreateFolderStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/dev/BoxSync.Core/Statuses/CreateFolderStatus.cs
+END
+SetDescriptionStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/trunk/dev/BoxSync.Core/Statuses/SetDescriptionStatus.cs
+END
+ExportTagsStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/dev/BoxSync.Core/Statuses/ExportTagsStatus.cs
+END
+CopyObjectStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/30/trunk/dev/BoxSync.Core/Statuses/CopyObjectStatus.cs
+END
+PublicShareStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/dev/BoxSync.Core/Statuses/PublicShareStatus.cs
+END
+PublicUnshareStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/dev/BoxSync.Core/Statuses/PublicUnshareStatus.cs
+END
+GetUpdatesStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32/trunk/dev/BoxSync.Core/Statuses/GetUpdatesStatus.cs
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/trunk/dev/BoxSync.Core.UnitTests/Primitives
+END
+CommentTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/36/trunk/dev/BoxSync.Core.UnitTests/Primitives/CommentTests.cs
+END
+FolderStructureRetrieveModeExtensionsTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/32/trunk/dev/BoxSync.Core.UnitTests/Primitives/FolderStructureRetrieveModeExtensionsTests.cs
+END

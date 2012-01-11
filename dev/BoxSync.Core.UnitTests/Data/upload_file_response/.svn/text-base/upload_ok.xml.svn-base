@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response>
+	<status>upload_ok</status>
+	<files>
+		<file file_name="read_me.txt" id="5996" folder_id="756" shared="0" public_name="" />
+		<file file_name="Rally.avi" error="filesize_limit_exceeded" />
+	</files>
+</response>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Presentation/Style/Configuration
+END
+conceptual.help1x.config
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Presentation/Style/Configuration/conceptual.help1x.config
+END
+conceptual.help2x.config
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Presentation/Style/Configuration/conceptual.help2x.config
+END
+MRefBuilder.config
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Presentation/Style/Configuration/MRefBuilder.config
+END
+sandcastle.help1x.config
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Presentation/Style/Configuration/sandcastle.help1x.config
+END
+sandcastle.help2x.config
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10/trunk/dev/BoxSync.Core.Doc/Help/Presentation/Style/Configuration/sandcastle.help2x.config
+END

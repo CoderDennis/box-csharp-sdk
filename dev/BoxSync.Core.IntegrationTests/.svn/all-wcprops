@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/41/trunk/dev/BoxSync.Core.IntegrationTests
+END
+GetAccountInfoTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/36/trunk/dev/BoxSync.Core.IntegrationTests/GetAccountInfoTests.cs
+END
+BoxSync.Core.IntegrationTests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/41/trunk/dev/BoxSync.Core.IntegrationTests/BoxSync.Core.IntegrationTests.csproj
+END
+IntegrationTestBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/39/trunk/dev/BoxSync.Core.IntegrationTests/IntegrationTestBase.cs
+END
+AddCommentTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/41/trunk/dev/BoxSync.Core.IntegrationTests/AddCommentTests.cs
+END
+GetFileInfoTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/41/trunk/dev/BoxSync.Core.IntegrationTests/GetFileInfoTests.cs
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/37/trunk/dev/BoxSync.Core.IntegrationTests/App.config
+END
+SetDescriptionTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/34/trunk/dev/BoxSync.Core.IntegrationTests/SetDescriptionTests.cs
+END
+GetAuthenticationTokenTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/31/trunk/dev/BoxSync.Core.IntegrationTests/GetAuthenticationTokenTests.cs
+END
+TestContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/34/trunk/dev/BoxSync.Core.IntegrationTests/TestContext.cs
+END
+GetTicketTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/34/trunk/dev/BoxSync.Core.IntegrationTests/GetTicketTests.cs
+END
+GetUpdatesTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/41/trunk/dev/BoxSync.Core.IntegrationTests/GetUpdatesTests.cs
+END
+run_tests_in_nunit.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/38/trunk/dev/BoxSync.Core.IntegrationTests/run_tests_in_nunit.bat
+END
