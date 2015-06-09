@@ -17,7 +17,7 @@
 		Successful = 1,
 
 		/// <summary>
-		/// An error ocured during folder creation process
+		/// An error occurred during folder creation process
 		/// </summary>
 		Failed = 2,
 

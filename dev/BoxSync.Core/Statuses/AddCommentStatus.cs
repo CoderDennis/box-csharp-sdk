@@ -16,7 +16,7 @@
 		Successful = 1,
 
 		/// <summary>
-		/// An error ocured during in your call.
+		/// An error occurred during in your call.
 		/// Represents 'add_comment_error' status string
 		/// </summary>
 		Failed = 2,

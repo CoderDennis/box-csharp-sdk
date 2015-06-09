@@ -17,7 +17,7 @@
 		EmailOK = 1,
 
 		/// <summary>
-		/// An error ocured during operation execution
+		/// An error occurred during operation execution
 		/// </summary>
 		Failed = 2,
 

@@ -16,7 +16,7 @@
 		Successful = 1,
 
 		/// <summary>
-		/// An error ocured during logout process
+		/// An error occurred during logout process
 		/// </summary>
 		Failed = 2,
 
