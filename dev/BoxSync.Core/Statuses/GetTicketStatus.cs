@@ -17,7 +17,7 @@
 		Successful = 1,
 
 		/// <summary>
-		/// An error occured during execution.
+		/// An error occurred during execution.
 		/// </summary>
 		Failed = 2,
 
